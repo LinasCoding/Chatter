@@ -13,7 +13,7 @@ public class CreateMysqlTables
 {
     private static final String url = "jdbc:mysql://localhost:3306/";
     private static final String user = "root";
-    private static final String password = "15964";
+    private static final String password = "12345";
     private static final String db_name = "chat";
     
    
